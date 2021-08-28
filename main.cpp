@@ -11,7 +11,7 @@ private:
 
 public:
     PagedArray() {
-        ifstream file("E:\\Users\\Usuario\\Documentos\\TareaExtraclase1_JU\\archivo_resultado.txt");
+        ifstream file("archivo_resultado.txt");
         string data = "";
         register int i;
         for(i = 0; i < SIZE; i++) {
@@ -35,8 +35,8 @@ public:
 
 void copia(){
 
-    const string nfichero = "E:\\Users\\Usuario\\Documentos\\TareaExtraclase1_JU\\archivo.txt";
-    const string nfsalida = "E:\\Users\\Usuario\\Documentos\\TareaExtraclase1_JU\\archivo_resultado.txt";
+    const string nfichero = "archivo.txt";
+    const string nfsalida = "archivo_resultado.txt";
     char letra;
     ifstream fichero;
     ofstream salida;

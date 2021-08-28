@@ -53,10 +53,10 @@ RM = "E:\Program Files\JetBrains\CLion 2021.2\bin\cmake\win\bin\cmake.exe" -E rm
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = E:\Users\Usuario\Documentos\TareaExtraclase1_JU
+CMAKE_SOURCE_DIR = E:\Users\Usuario\Documentos\TareaExtraclase1_JU\TE1_JU
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = E:\Users\Usuario\Documentos\TareaExtraclase1_JU\cmake-build-debug
+CMAKE_BINARY_DIR = E:\Users\Usuario\Documentos\TareaExtraclase1_JU\TE1_JU\cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -80,14 +80,14 @@ clean: CMakeFiles/TareaExtraclase1_JU.dir/clean
 CMakeFiles/TareaExtraclase1_JU.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\TareaExtraclase1_JU.dir\build.make CMakeFiles/TareaExtraclase1_JU.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\TareaExtraclase1_JU.dir\build.make CMakeFiles/TareaExtraclase1_JU.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Users\Usuario\Documentos\TareaExtraclase1_JU\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target TareaExtraclase1_JU"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Users\Usuario\Documentos\TareaExtraclase1_JU\TE1_JU\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target TareaExtraclase1_JU"
 .PHONY : CMakeFiles/TareaExtraclase1_JU.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/TareaExtraclase1_JU.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Users\Usuario\Documentos\TareaExtraclase1_JU\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Users\Usuario\Documentos\TareaExtraclase1_JU\TE1_JU\cmake-build-debug\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/TareaExtraclase1_JU.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Users\Usuario\Documentos\TareaExtraclase1_JU\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Users\Usuario\Documentos\TareaExtraclase1_JU\TE1_JU\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/TareaExtraclase1_JU.dir/rule
 
 # Convenience name for target.

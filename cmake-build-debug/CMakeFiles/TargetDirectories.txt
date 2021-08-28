@@ -1,3 +1,3 @@
-E:/Users/Usuario/Documentos/TareaExtraclase1_JU/cmake-build-debug/CMakeFiles/TareaExtraclase1_JU.dir
-E:/Users/Usuario/Documentos/TareaExtraclase1_JU/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Users/Usuario/Documentos/TareaExtraclase1_JU/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/Users/Usuario/Documentos/TareaExtraclase1_JU/TE1_JU/cmake-build-debug/CMakeFiles/TareaExtraclase1_JU.dir
+E:/Users/Usuario/Documentos/TareaExtraclase1_JU/TE1_JU/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Users/Usuario/Documentos/TareaExtraclase1_JU/TE1_JU/cmake-build-debug/CMakeFiles/rebuild_cache.dir

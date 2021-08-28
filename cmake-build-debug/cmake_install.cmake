@@ -1,4 +1,4 @@
-# Install script for directory: E:/Users/Usuario/Documentos/TareaExtraclase1_JU
+# Install script for directory: E:/Users/Usuario/Documentos/TareaExtraclase1_JU/TE1_JU
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "E:/Users/Usuario/Documentos/TareaExtraclase1_JU/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/Users/Usuario/Documentos/TareaExtraclase1_JU/TE1_JU/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
